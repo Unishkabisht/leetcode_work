@@ -20,4 +20,12 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Unishkabisht/leetcode_work/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/Unishkabisht/leetcode_work/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
