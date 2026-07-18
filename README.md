@@ -7,8 +7,17 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
