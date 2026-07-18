@@ -6,6 +6,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Unishkabisht/leetcode_work/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1929-concatenation-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Unishkabisht/leetcode_work/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Unishkabisht/leetcode_work/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Unishkabisht/leetcode_work/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
