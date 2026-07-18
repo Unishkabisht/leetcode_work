@@ -9,6 +9,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 | [1929-concatenation-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Unishkabisht/leetcode_work/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Unishkabisht/leetcode_work/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Unishkabisht/leetcode_work/tree/master/0696-count-binary-substrings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [0761-special-binary-string](https://github.com/Unishkabisht/leetcode_work/tree/master/0761-special-binary-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +49,7 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Unishkabisht/leetcode_work/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -54,4 +58,17 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Unishkabisht/leetcode_work/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Unishkabisht/leetcode_work/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
