@@ -28,4 +28,13 @@ A collection of my LeetCode solutions automatically synced using LeetCodeHub. Th
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/Unishkabisht/leetcode_work/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Unishkabisht/leetcode_work/tree/master/0761-special-binary-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Unishkabisht/leetcode_work/tree/master/0761-special-binary-string) |
+## Sorting
+|  |
+| ------- |
+| [0761-special-binary-string](https://github.com/Unishkabisht/leetcode_work/tree/master/0761-special-binary-string) |
 <!---LeetCode Topics End-->
